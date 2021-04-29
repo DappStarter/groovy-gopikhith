@@ -1,0 +1,17 @@
+{
+    "name": "RayMatic1",
+    "blocks": {
+        "/blockchain/matic": true,
+        "/blockchain/matic/solidity": true,
+        "/framework/vanilla": true,
+        "/category/access_control/contract_runstate": true,
+        "/category/access_control/administrator_role": true,
+        "/category/access_control/contract_access": true,
+        "/category/asset_value_tracking/token": true,
+        "/category/asset_value_tracking/token/name": "RayToken1",
+        "/category/asset_value_tracking/token/symbol": "RTK1",
+        "/category/asset_value_tracking/token/decimals": "10",
+        "/category/asset_value_tracking/token/supply": "1000",
+        "/category/collection/entity": true
+    }
+}
